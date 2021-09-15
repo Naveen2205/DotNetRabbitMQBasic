@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hHLjvYYJwNT8aSp7BnauSdrWaFHfi9t7kpTW84SKAIVFRH0vz03U6XwHkhtrTqNr7Hob1/QStehzKN1AQe9B6A==",
+  "success": true,
+  "projectFilePath": "E:\\2\\coding\\dotnet Community\\Web\\RabbitMQ\\RPC\\RPC_Receiver\\RPC_Receiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
